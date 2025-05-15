@@ -32,9 +32,7 @@ Um projeto de jogo simples desenvolvido em Golang utilizando a Ebitengine. O obj
 
 ## Imagem do Jogo
 
-Adicione aqui uma imagem do jogo (quando disponível):
-
-![Imagem do Jogo](assets/screenshot.png)
+![Imagem do Jogo](https://i.postimg.cc/FKRnwd27/image.png)
 
 ## Créditos
 
